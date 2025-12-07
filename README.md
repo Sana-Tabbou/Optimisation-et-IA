@@ -9,8 +9,11 @@
 Ce dépôt contient les comptes rendus de 3 TD (Travaux Dirigés) pour la matière Intelligence Artificielle et Optimisation.
 
 Auteur:
+
 Sana TABBOU
+
 Malak OUJDID 
 
 Année universitaire:
+
 2025-2026
