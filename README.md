@@ -18,8 +18,8 @@ Ce dépôt regroupe les **comptes rendus détaillés** des 3 Travaux Dirigés (T
 
 ##  Documents
 
-| TD | Fichier | Statut |
-|----|---------|--------|
+| TD | Fichier | 
+|----|---------|
 | **TD 1** | [`TD1_optimisation_IA.ipynb`](./TTD1_optimisation_IA.ipynb) | 
 | **TD 2** | [`TD2_GAN.ipynb`](./TD2_GAN.ipynb) | 
 | **TD 3** | [`TD3_Sana_Malak.pdf`](./TD3_Sana_Malak.pdf) | 
