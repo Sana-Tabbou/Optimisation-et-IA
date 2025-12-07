@@ -7,16 +7,16 @@
 
 ---
 
-## 📊 Table des matières
-- [📋 Présentation](#-présentation)
-- [📂 Documents](#-documents)
-- [👤 Auteurs](#-auteurs)
-- [📅 Année universitaire](#-année-universitaire)
+##  Table des matières
+- [ Présentation](#-présentation)
+- [ Documents](#-documents)
+- [ Auteurs](#-auteurs)
+- [ Année universitaire](#-année-universitaire)
 
-## 📋 Présentation
+## Présentation
 Ce dépôt regroupe les **comptes rendus détaillés** des 3 Travaux Dirigés (TD) de la matière **Intelligence Artificielle et Optimisation**, abordant les concepts fondamentaux et les applications pratiques.
 
-## 📂 Documents
+##  Documents
 
 | TD | Fichier | Statut |
 |----|---------|--------|
@@ -24,24 +24,24 @@ Ce dépôt regroupe les **comptes rendus détaillés** des 3 Travaux Dirigés (T
 | **TD 2** | [`TD2_GAN.ipynb`](./TD2_GAN.ipynb) | 
 | **TD 3** | [`TD3_Sana_Malak.pdf`](./TD3_Sana_Malak.pdf) | 
 
-## 👤 Auteurs
+##  Auteurs
 
 <div align="center">
   
-| Étudiant | Nom | Prénom |
-|----------|-----|--------|
-| 👨‍🎓 | **TABBOU** | Sana |
-| 👩‍🎓 | **OUJDID** | Malak |
+| Nom | Prénom |
+|-----|--------|
+| **TABBOU** | Sana |
+| **OUJDID** | Malak |
 
 </div>
 
-## 📅 Année universitaire
+##  Année universitaire
 **2025 – 2026** 
 
 ---
 
 <div align="center">
   
-📌 * Polytech Dijon - Universite de bourgogne Europe *
+ * Polytech Dijon - Universite de bourgogne Europe *
 
 </div>
