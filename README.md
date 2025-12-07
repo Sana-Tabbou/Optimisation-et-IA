@@ -21,7 +21,7 @@ Ce dépôt regroupe les **comptes rendus détaillés** des 3 Travaux Dirigés (T
 | TD | Fichier | 
 |----|---------|
 | **TD 1** | [`TD1_optimisation_IA.ipynb`](./TTD1_optimisation_IA.ipynb) | 
-| **TD 2** | [`TD2_GAN.ipynb`](./TD2_GAN.ipynb) | 
+| **TD 2** | [`TD2_optimisation_IA.ipynb`](./TD2_optimisation_IA.ipynb) | 
 | **TD 3** | [`TD3_Sana_Malak.pdf`](./TD3_Sana_Malak.pdf) | 
 
 ##  Auteurs
